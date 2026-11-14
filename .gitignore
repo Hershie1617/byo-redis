@@ -1,0 +1,12 @@
+# Build and binary directories
+build/
+bin/
+
+# Object files and compiler outputs
+*.o
+*.out
+*.exe
+
+# OS and temporary files
+.DS_Store
+__pycache__/
